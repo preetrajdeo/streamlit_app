@@ -1,0 +1,7 @@
+﻿model,mae
+Linear Regression,25.54
+Random Effects,25.24
+GRU,18
+Bayesian Ridge Regression,17.6
+DCNN,15.65
+LSTM,13.1

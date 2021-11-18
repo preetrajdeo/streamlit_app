@@ -1,0 +1,7 @@
+﻿model,rmse
+Random Effects,32.47
+Linear Regression,31.95
+GRU,22.77
+Bayesian Ridge Regression,21.89
+DCNN,20.39
+LSTM,17.56
